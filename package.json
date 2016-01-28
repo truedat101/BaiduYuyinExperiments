@@ -1,0 +1,27 @@
+{
+  "name": "baidu-yuyin-experiments",
+  "version": "1.0.0",
+  "description": "Experiements for 百度语音的Nodejs实现",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https:truedat101/BaiduYuyinExperiments.git"
+  },
+  "keywords": [
+    "baidu",
+    "yuyin"
+  ],
+  "author": "truedat101",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/truedat101/BaiduYuyinExperiments/issues"
+  },
+  "dependencies": {
+    "baidu_yuyin": "^1.0.1",
+    "request": "^2.61.0"
+  },
+  "devDependencies": {
+  }
+}
