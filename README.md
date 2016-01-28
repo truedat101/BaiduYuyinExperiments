@@ -8,6 +8,7 @@ https://github.com/DelightRun/PyBaiduYuyin
 
 To setup:
 
+* Manually install PyAudio (or on linux, just mpg123)
 ```
 > virtualenv venv
 > . venv/bin/activate
@@ -20,5 +21,5 @@ To setup:
 https://github.com/aokihu/BaiduYuyin
 
 ```
-> npm install BaiduYuyin
+> npm install .
 ```
